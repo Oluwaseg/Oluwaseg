@@ -1,56 +1,126 @@
-<h1 align="center">Hi 👋, I'm Samuel Oluwasegun</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F78FECFF&size=29&multiline=true&width=700&lines=Welcome+To+Samuel's+GitHub+Profile)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" />
+<a href="#"><img width="28%" height="auto" align="right" src="Developer.gif" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwaseg&label=Profile%20views&color=0e75b6&style=flat" alt="oluwaseg" /> </p>
+## Hi there My name is Samuel Oluwasegun Oluwatobi
 
-- 🌱 I’m currently learning **Javascript**
+## I'm a Tech Enthusiast!! </b>&nbsp;
 
-- 👯 I’m looking to collaborate on **any project**
+- 👨🏿‍💻 Javascript Developer
+- 🇳🇬 Nigerian
+- 🌱 I’m currently learning NodeJs and Advanced Javascript
+- 😄 Pronoun: He, Him
+- 💬 Ask me about anything related to Javascript
 
-- 💬 Ask me about **Web Development**
+<!-- ## Connect with me  -->
+<div align="center">
+<a href="https://github.com/oluwaseg" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/oluwaseg" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/samuel-oluwasegun-39ab37253/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/yujiitadori.55" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="#" target="_blank">
+<img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+<a href="https://instagram.com/samuelos_tech" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:samueloluwasegun999@gmail.com">
+<img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/message/QR35DPNXBPGOB1">
+<img align="left"src="https://img.shields.io/badge/Whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
 
-- 📫 How to reach me **samueloluwasegun999@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I love technology**
+  <br>
+  <br>
+  <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## My Skill Set
 
-[![Discord](https://img.shields.io/badge/-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sammy_tdev.9803) [![Facebook](https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/oluwasegunsamuel.55) [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-oluwasegun-39ab37253/) [![Stack Overflow](https://img.shields.io/badge/-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19305960/jiraya) [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Itami_itadori)
+<table><tr><td valign="top" width="33%">
 
+### Frontend
+
+<div align="center" background-color='white'>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />
+</div>
+
+</td><td valign="top" width="33%">
+
+### Backend
+
+<div align="center">
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+
+</div>
+
+</td><td valign="top" width="33%">
+
+### DevOps
+
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+
+</div>
+
+</td></tr></table>
+
+<br/>
+
+<br/>
+<hr style="border:0.3px solid gray"> </hr>
+
+## 📊 My GitHub Stats
+
+  <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=oluwaseg&theme=onedark&title=MultiLanguage,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+<table><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=oluwaseg&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=000" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oluwaseg&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" />
+
+</td></table>
+
+<br/>
+
+<br>
+<p>
+<a><img alt="Samuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oluwaseg&bg_color=0D1117&color=D73A7B&line=A8FDF6&point=FFFFFF&hide_border=true" /></a>
 </p>
+ <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaseg&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a>
+<br>
+<br>
+<a><img src="https://img.shields.io/github/followers/oluwaseg?label=Followers&style=social" alt="GitHub Followers Badge"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-
-![Adobe Photoshop](https://img.shields.io/badge/-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-</p>
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Oluwaseg&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Oluwaseg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Oluwaseg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwaseg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Oluwaseg&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Oluwaseg&icon=0&color=1)](https://visitcount.itsvg.in)
+### <h1><p align ="center"> Show Some ❤️ By <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></p> </h1>

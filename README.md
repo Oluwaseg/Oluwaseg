@@ -1,105 +1,149 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+# 👋 Samuel Oluwasegun
+### 🚀 Full Stack JavaScript Developer | Building Production-Ready Web Applications
 
-<h3 align="center">I'm Samuel Oluwasegun Oluwatobi</h3>
-<p align="center">A passionate JavaScript Developer from Nigeria 🇳🇬</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-oluwasegun-39ab37253) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oluwaseg) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://www.samuel-oluwasegun.bio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwasegunsam56@gmail.com)
 
----
-
-### 🚀 About Me
-
-- 👨🏿‍💻 **JavaScript Developer** passionate about creating amazing web experiences
-- 🌱 Currently learning **Node.js** and **Advanced JavaScript**
-- 💬 Ask me about anything related to **JavaScript**
-- 😄 Pronouns: **He/Him**
-- 🎯 Always excited to collaborate on interesting projects!
+![Location](https://img.shields.io/badge/📍_Lagos,_Nigeria-0e75b6?style=flat-square) 
+![Status](https://img.shields.io/badge/🟢_Available_for_Hire-success?style=flat-square)
+![Remote](https://img.shields.io/badge/🌍_Remote_Ready-blue?style=flat-square)
 
 ---
 
-### 🛠️ Tech Stack
+## 💫 About Me
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-</div>
+**Passionate Full Stack Developer** with expertise in building **scalable web applications** from concept to deployment. I specialize in creating **intuitive user experiences** backed by **robust architectures** that solve real-world problems.
+
+🎯 **What I Do:**
+- Transform ideas into production-ready applications
+- Design and implement scalable backend systems
+- Create responsive, accessible frontend experiences
+- Optimize performance and ensure security best practices
+- Collaborate with cross-functional teams to deliver exceptional products
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ Technical Arsenal  
 
-<div align="center">
-  <a href="https://linkedin.com/in/samuel-oluwasegun-39ab37253" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://dev.to/oluwaseg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo" />
-  </a>
-  <a href="https://medium.com/@samueloluwasegun999" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
-  </a>
-  <a href="https://instagram.com/samuelos_tech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://fb.com/yujiitadori.55" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-</div>
+### **Frontend Development**  
+- **Frameworks:** React, Next.js, Angular  
+- **Styling:** Tailwind CSS, CSS3, SASS  
+- **Tools:** TypeScript, JavaScript ES6+, Responsive Design  
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Oluwaseg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oluwaseg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oluwaseg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+### **Backend Development**  
+- **Runtime:** Node.js  
+- **Frameworks:** NestJS, Express.js  
+- **APIs:** RESTful APIs, GraphQL, WebSocket  
+- **Architecture:** Microservices, MVC, Clean Architecture  
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Oluwaseg&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oluwaseg&theme=react-dark&hide_border=true" alt="contribution graph" />
-</div>
+### **Database & Storage**  
+- **SQL:** PostgreSQL  
+- **NoSQL:** MongoDB  
+- **ORMs:** Prisma, TypeORM, Mongoose  
+- **Caching:** Redis  
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oluwaseg&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+### **DevOps & Deployment**  
+- **Containerization:** Docker, Docker Compose  
+- **Cloud:** AWS, Vercel, Netlify  
+- **CI/CD:** GitHub Actions, GitLab CI  
+- **Monitoring:** Application Performance Monitoring  
+
+
+### **Integrations & APIs**
+- 🔐 **Authentication:** JWT, OAuth, Passport.js
+- 💳 **Payment Processing:** Stripe, Paystack
+- 📧 **Email Services:** Transactional email systems
+- 🔗 **Third-party APIs:** RESTful and GraphQL integrations
+
+---
+
+## 🚀 Development Approach
+
+### **1. 🔍 Discovery & Planning**
+- Analyze requirements and technical constraints
+- Design system architecture and database schema
+- Create development roadmap with clear milestones
+
+### **2. ⚡ Agile Development**
+- Write clean, maintainable, and testable code
+- Implement CI/CD pipelines for automated testing
+- Follow industry best practices and coding standards
+
+### **3. 🚢 Deployment & Optimization**
+- Containerize applications for consistent environments
+- Implement monitoring and logging solutions
+- Optimize for performance, security, and scalability
+
+---
+
+## 🏆 Featured Projects
+
+> **Check out my pinned repositories for live demos, detailed documentation, and technical deep-dives!**
+
+### 🌟 **Highlights:**
+- **E-commerce Platform:** Full-stack application with payment integration
+- **Task Management System:** Real-time collaboration features
+- **API Gateway:** Microservices architecture with authentication
+- **Portfolio Website:** Modern, responsive design with CMS integration
+
+📂 **Explore More:** [GitHub Repositories](https://github.com/Oluwaseg) | [Live Portfolio](https://www.samuel-oluwasegun.bio)
+
+---
+
+## 📈 GitHub Stats
+
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oluwaseg&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwaseg&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 💼 Let's Work Together
+
+### **🎯 I'm Available For:**
+- 💻 **Full-time Positions** - Ready to join innovative teams
+- 📋 **Contract Work** - Project-based engagements
+- 🔧 **Freelance Projects** - Custom web application development
+- 🌐 **Remote Opportunities** - Experienced in distributed team collaboration
+
+### **📞 Get In Touch:**
+
+| Platform | Link | Best For |
+|----------|------|----------|
+| 📧 **Email** | [oluwasegunsam56@gmail.com](mailto:oluwasegunsam56@gmail.com) | Direct communication |
+| 📱 **Phone** | [+2349048095407](tel:+2349048095407) | Quick calls |
+| 💼 **LinkedIn** | [samuel-oluwasegun](https://linkedin.com/in/samuel-oluwasegun-39ab37253) | Professional networking |
+| 🐙 **GitHub** | [@Oluwaseg](https://github.com/Oluwaseg) | Code collaboration |
+| 🌐 **Portfolio** | [samuel-oluwasegun.bio](https://www.samuel-oluwasegun.bio) | Project showcases |
+
+---
+
+## 🎯 What Sets Me Apart
+
+✅ **Problem Solver:** I don't just code; I solve business problems with technology  
+✅ **Team Player:** Experienced in Agile methodologies and cross-functional collaboration  
+✅ **Continuous Learner:** Always staying updated with the latest technologies and best practices  
+✅ **Quality Focused:** Writing maintainable code with comprehensive testing  
+✅ **Communication:** Clear technical communication with both technical and non-technical stakeholders  
+
+---
 
 <div align="center">
-  
-### 💭 Quote of the Day
-  
-*"The best way to predict the future is to create it."* - Peter Drucker
+
+### 💡 *"The best way to predict the future is to create it."* — Peter Drucker
+
+**Ready to build something amazing together?**  
+[📧 Let's Connect](mailto:oluwasegunsam56@gmail.com) | [💼 View My Work](https://www.samuel-oluwasegun.bio)
+
+---
+
+⭐ **If you like my work, consider giving my repositories a star!** ⭐
 
 </div>

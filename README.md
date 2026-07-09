@@ -9,6 +9,7 @@ I turn messy business problems into working software: dashboards people actually
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://samuel-oluwasegun-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-oluwasegun-39ab37253)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwasegunsam56@gmail.com)
+[![Support](https://img.shields.io/badge/☕-Support%20My%20Work-FFDD00?style=for-the-badge)](https://selar.com/showlove/oluwaseg)
 
 📍 Lagos, Nigeria · 🟢 Open to work: full-time, contract, freelance, or a solid open-source problem
 

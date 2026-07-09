@@ -1,149 +1,92 @@
-# 👋 Samuel Oluwasegun
-### 🚀 Full Stack JavaScript Developer | Building Production-Ready Web Applications
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-oluwasegun-39ab37253) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oluwaseg) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://www.samuel-oluwasegun.bio)
+# Hey, I'm Samuel 👋
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Fintech+%26+E-commerce+Integrations;AI+Agents+%26+Workflow+Automation;Open+to+Work" alt="Typing SVG" />
+
+I turn messy business problems into working software: dashboards people actually use, payment flows that don't break, and lately, AI agents that automate the boring parts of the job.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://samuel-oluwasegun-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-oluwasegun-39ab37253)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwasegunsam56@gmail.com)
 
-![Location](https://img.shields.io/badge/📍_Lagos,_Nigeria-0e75b6?style=flat-square) 
-![Status](https://img.shields.io/badge/🟢_Available_for_Hire-success?style=flat-square)
-![Remote](https://img.shields.io/badge/🌍_Remote_Ready-blue?style=flat-square)
+📍 Lagos, Nigeria · 🟢 Open to work: full-time, contract, freelance, or a solid open-source problem
+
+</div>
 
 ---
 
-## 💫 About Me
+## 🧭 About
 
-**Passionate Full Stack Developer** with expertise in building **scalable web applications** from concept to deployment. I specialize in creating **intuitive user experiences** backed by **robust architectures** that solve real-world problems.
+Full-stack developer who likes owning things end-to-end. Architecture, build, deploy, and the debugging that comes after. I build production-ready web apps: dashboards people actually use, payment flows that don't break, and lately, AI agents and automations that take the boring parts off someone's plate.
 
-🎯 **What I Do:**
-- Transform ideas into production-ready applications
-- Design and implement scalable backend systems
-- Create responsive, accessible frontend experiences
-- Optimize performance and ensure security best practices
-- Collaborate with cross-functional teams to deliver exceptional products
+🔭 **Currently exploring:** multi-agent workflows and getting n8n + LLMs to handle real operational tasks, not just demos.
 
 ---
 
-## 🛠️ Technical Arsenal  
+## 🛠️ Stack
 
-### **Frontend Development**  
-- **Frameworks:** React, Next.js, Angular  
-- **Styling:** Tailwind CSS, CSS3, SASS  
-- **Tools:** TypeScript, JavaScript ES6+, Responsive Design  
+**Frontend**
 
----
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Angular](https://skillicons.dev/icons?i=angular)
 
-### **Backend Development**  
-- **Runtime:** Node.js  
-- **Frameworks:** NestJS, Express.js  
-- **APIs:** RESTful APIs, GraphQL, WebSocket  
-- **Architecture:** Microservices, MVC, Clean Architecture  
+**Backend**
 
----
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![NestJS](https://skillicons.dev/icons?i=nestjs) ![GraphQL](https://skillicons.dev/icons?i=graphql)
 
-### **Database & Storage**  
-- **SQL:** PostgreSQL  
-- **NoSQL:** MongoDB  
-- **ORMs:** Prisma, TypeORM, Mongoose  
-- **Caching:** Redis  
+**Data & Infra**
 
----
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis) ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Vercel](https://skillicons.dev/icons?i=vercel)
 
-### **DevOps & Deployment**  
-- **Containerization:** Docker, Docker Compose  
-- **Cloud:** AWS, Vercel, Netlify  
-- **CI/CD:** GitHub Actions, GitLab CI  
-- **Monitoring:** Application Performance Monitoring  
+**AI & Automation**
 
+`n8n` `OpenAI API` `LLM Integration` `AI Agents` `Workflow Automation`
 
-### **Integrations & APIs**
-- 🔐 **Authentication:** JWT, OAuth, Passport.js
-- 💳 **Payment Processing:** Stripe, Paystack
-- 📧 **Email Services:** Transactional email systems
-- 🔗 **Third-party APIs:** RESTful and GraphQL integrations
+**Integrations I've worked with**
+
+`Paystack` `Flutterwave` `Shopify API` `Strapi` `JWT/OAuth`, plus whatever the project needs (REST/GraphQL APIs, webhooks, third-party SDKs, etc.)
 
 ---
 
-## 🚀 Development Approach
+## 🏆 Pinned Projects
 
-### **1. 🔍 Discovery & Planning**
-- Analyze requirements and technical constraints
-- Design system architecture and database schema
-- Create development roadmap with clear milestones
+| Project | What it is |
+|---|---|
+| [**VendorEase**](https://github.com/Oluwaseg/VendorEase) | Headless, modular e-commerce backend. Checkout logic, referral-driven promos, dynamic shipping rates, live support chat, and full order lifecycle handling. |
+| [**wallet-wise**](https://github.com/Oluwaseg/wallet-wise) | Personal finance / wallet tracking tool. |
+| [**decentralized-voting-system**](https://github.com/Oluwaseg/decentralized-voting-system) | A blockchain-based voting system exploring tamper-resistant, transparent elections. |
+| [**VisibilityManager**](https://github.com/Oluwaseg/VisibilityManager) | TypeScript utility for managing visibility/state logic in UI components. |
+| [**bittorent**](https://github.com/Oluwaseg/bittorent) | A from-scratch look at the BitTorrent protocol. |
 
-### **2. ⚡ Agile Development**
-- Write clean, maintainable, and testable code
-- Implement CI/CD pipelines for automated testing
-- Follow industry best practices and coding standards
+*(A couple of these descriptions are my best guess from the repo name, worth swapping in the real one-liners once you're editing this.)*
 
-### **3. 🚢 Deployment & Optimization**
-- Containerize applications for consistent environments
-- Implement monitoring and logging solutions
-- Optimize for performance, security, and scalability
+📂 More on [GitHub](https://github.com/Oluwaseg) · Live work on my [Portfolio](https://samuel-oluwasegun-portfolio.vercel.app/)
 
 ---
 
-## 🏆 Featured Projects
+## 📊 GitHub Stats
 
-> **Check out my pinned repositories for live demos, detailed documentation, and technical deep-dives!**
+<div align="center">
 
-### 🌟 **Highlights:**
-- **E-commerce Platform:** Full-stack application with payment integration
-- **Task Management System:** Real-time collaboration features
-- **API Gateway:** Microservices architecture with authentication
-- **Portfolio Website:** Modern, responsive design with CMS integration
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oluwaseg&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Oluwaseg&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwaseg&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
-📂 **Explore More:** [GitHub Repositories](https://github.com/Oluwaseg) | [Live Portfolio](https://www.samuel-oluwasegun.bio)
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Open to
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oluwaseg&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwaseg&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 💼 Let's Work Together
-
-### **🎯 I'm Available For:**
-- 💻 **Full-time Positions** - Ready to join innovative teams
-- 📋 **Contract Work** - Project-based engagements
-- 🔧 **Freelance Projects** - Custom web application development
-- 🌐 **Remote Opportunities** - Experienced in distributed team collaboration
-
-### **📞 Get In Touch:**
-
-| Platform | Link | Best For |
-|----------|------|----------|
-| 📧 **Email** | [oluwasegunsam56@gmail.com](mailto:oluwasegunsam56@gmail.com) | Direct communication |
-| 📱 **Phone** | [+2349048095407](tel:+2349048095407) | Quick calls |
-| 💼 **LinkedIn** | [samuel-oluwasegun](https://linkedin.com/in/samuel-oluwasegun-39ab37253) | Professional networking |
-| 🐙 **GitHub** | [@Oluwaseg](https://github.com/Oluwaseg) | Code collaboration |
-| 🌐 **Portfolio** | [samuel-oluwasegun.bio](https://www.samuel-oluwasegun.bio) | Project showcases |
-
----
-
-## 🎯 What Sets Me Apart
-
-✅ **Problem Solver:** I don't just code; I solve business problems with technology  
-✅ **Team Player:** Experienced in Agile methodologies and cross-functional collaboration  
-✅ **Continuous Learner:** Always staying updated with the latest technologies and best practices  
-✅ **Quality Focused:** Writing maintainable code with comprehensive testing  
-✅ **Communication:** Clear technical communication with both technical and non-technical stakeholders  
+`Full-time` · `Part-time` · `Contract` · `Freelance` · `Open Source collaboration`
 
 ---
 
 <div align="center">
 
-### 💡 *"The best way to predict the future is to create it."* — Peter Drucker
+**Let's build something.**
+[📧 Email me](mailto:oluwasegunsam56@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/samuel-oluwasegun-39ab37253) · [🌐 Portfolio](https://samuel-oluwasegun-portfolio.vercel.app/)
 
-**Ready to build something amazing together?**  
-[📧 Let's Connect](mailto:oluwasegunsam56@gmail.com) | [💼 View My Work](https://www.samuel-oluwasegun.bio)
-
----
-
-⭐ **If you like my work, consider giving my repositories a star!** ⭐
+⭐ *If any of my repos are useful to you, a star goes a long way.*
 
 </div>
